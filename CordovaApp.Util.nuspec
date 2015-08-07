@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>CordovaApp.Util</title>
+    <authors>bguiz</authors>
+    <owners>bguiz</owners>
+    <licenseUrl>http://www.gnu.org/licenses/gpl-3.0.en.html</licenseUrl>
+    <projectUrl>https://github.com/bguiz/cordova-app-util-msvs</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Utilities for cordova apps built using MSVS2015</description>
+    <releaseNotes>Initial release</releaseNotes>
+    <copyright>Copyright 2015</copyright>
+    <tags>Uri Stream Resolver</tags>
+  </metadata>
+</package>
