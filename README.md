@@ -21,8 +21,6 @@ and these may be called directly from Javascript.
 
 ### `CordovaApp.Util.StreamUriResolver`
 
-// TODO
-
 Credit for `StreamUriResolver` goes to MSDN for demonstrating how this is done.
 
 ## Contributing
